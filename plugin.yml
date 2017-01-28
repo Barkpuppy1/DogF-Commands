@@ -1,0 +1,18 @@
+name: DogFreedomCmds
+main: me.DogFreedom.DFCommands.Main
+version: 0.1
+authors: [xBarkPuppy1]
+commands:
+   admin:
+      description: Just, no.
+   dfinfo:
+      description: DogFreedom Info.
+   clearchat:
+      description: Clears the chat.
+      aliases: [cc]
+   dogsout:
+      description: Who let the dogs out?
+   kitty:
+      description: I love kitty cats.
+   apply:
+      description: Info on how to apply
